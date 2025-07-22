@@ -51,4 +51,4 @@ plant-disease-detection/
 ## 🧺 Dataset
 
 Balanced dataset curated from multiple open sources (PlantVillage, Mendeley, etc.). Each class contains 1200 images. Major classes were **undersampled** randomly, and minor classes were **oversampled** using augmentation (rotations of 90°, 180°, and 270°).  
-📦 Hosted on **[Kaggle](https://www.kaggle.com/api/v1/datasets/download/ankurpaul52/balanced-multi-crop-plant-disease-dataset)**
+📦 Hosted on **[Kaggle](https://www.kaggle.com/datasets/ankurpaul52/balanced-multi-crop-plant-disease-dataset)**
